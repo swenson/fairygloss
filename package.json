@@ -1,14 +1,15 @@
 {
-  "name": "fairyfloss",
+  "name": "fairygloss",
   "theme": "syntax",
-  "version": "0.2.1",
+  "version": "0.3.0",
+  "maintainer": "Christopher Swenson <swenson@swenson.io>",
   "author": "Amy Wibowo <sailorhg@gmail.com>",
-  "description": "Cute pastel theme created with ♥",
+  "description": "Cute pastel theme created with ♥, forked from sailorhg/fairyfloss",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/sailorhg/fairyfloss",
+  "repository": "https://github.com/swenson/fairygloss",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
